@@ -1,0 +1,366 @@
+,actual,predicted,date,team,opponent,result,new_team,isRight
+35,2.0,0.0,2022-08-05,Arsenal,Crystal Palace,W,Arsenal,False
+36,2.0,2.0,2022-08-13,Arsenal,Leicester City,W,Arsenal,True
+37,2.0,2.0,2022-08-20,Arsenal,Bournemouth,W,Arsenal,True
+38,2.0,2.0,2022-08-27,Arsenal,Fulham,W,Arsenal,True
+39,2.0,2.0,2022-08-31,Arsenal,Aston Villa,W,Arsenal,True
+40,0.0,2.0,2022-09-04,Arsenal,Manchester Utd,L,Arsenal,False
+41,2.0,2.0,2022-09-18,Arsenal,Brentford,W,Arsenal,True
+42,2.0,2.0,2022-10-01,Arsenal,Tottenham,W,Arsenal,True
+43,2.0,2.0,2022-10-09,Arsenal,Liverpool,W,Arsenal,True
+44,2.0,2.0,2022-10-16,Arsenal,Leeds United,W,Arsenal,True
+45,1.0,2.0,2022-10-23,Arsenal,Southampton,D,Arsenal,False
+46,2.0,2.0,2022-10-30,Arsenal,Nott'ham Forest,W,Arsenal,True
+47,2.0,2.0,2022-11-06,Arsenal,Chelsea,W,Arsenal,True
+48,2.0,2.0,2022-11-12,Arsenal,Wolves,W,Arsenal,True
+49,2.0,2.0,2022-12-26,Arsenal,West Ham,W,Arsenal,True
+50,2.0,2.0,2022-12-31,Arsenal,Brighton,W,Arsenal,True
+51,1.0,2.0,2023-01-03,Arsenal,Newcastle Utd,D,Arsenal,False
+52,2.0,2.0,2023-01-15,Arsenal,Tottenham,W,Arsenal,True
+88,0.0,0.0,2022-08-06,Aston Villa,Bournemouth,L,Aston Villa,True
+89,2.0,0.0,2022-08-13,Aston Villa,Everton,W,Aston Villa,False
+90,0.0,0.0,2022-08-20,Aston Villa,Crystal Palace,L,Aston Villa,True
+91,0.0,2.0,2022-08-28,Aston Villa,West Ham,L,Aston Villa,False
+92,0.0,0.0,2022-08-31,Aston Villa,Arsenal,L,Aston Villa,True
+93,1.0,0.0,2022-09-03,Aston Villa,Manchester City,D,Aston Villa,False
+94,2.0,2.0,2022-09-16,Aston Villa,Southampton,W,Aston Villa,True
+95,1.0,0.0,2022-10-02,Aston Villa,Leeds United,D,Aston Villa,False
+96,1.0,0.0,2022-10-10,Aston Villa,Nott'ham Forest,D,Aston Villa,False
+97,0.0,2.0,2022-10-16,Aston Villa,Chelsea,L,Aston Villa,False
+98,0.0,2.0,2022-10-20,Aston Villa,Fulham,L,Aston Villa,False
+99,2.0,2.0,2022-10-23,Aston Villa,Brentford,W,Aston Villa,True
+100,0.0,2.0,2022-10-29,Aston Villa,Newcastle Utd,L,Aston Villa,False
+101,2.0,0.0,2022-11-06,Aston Villa,Manchester Utd,W,Aston Villa,False
+102,2.0,0.0,2022-11-13,Aston Villa,Brighton,W,Aston Villa,False
+103,0.0,1.0,2022-12-26,Aston Villa,Liverpool,L,Aston Villa,False
+104,2.0,2.0,2023-01-01,Aston Villa,Tottenham,W,Aston Villa,True
+105,1.0,0.0,2023-01-04,Aston Villa,Wolves,D,Aston Villa,False
+106,2.0,0.0,2023-01-13,Aston Villa,Leeds United,W,Aston Villa,False
+107,0.0,0.0,2022-08-27,Bournemouth,Liverpool,L,Bournemouth,True
+108,1.0,2.0,2022-08-31,Bournemouth,Wolves,D,Bournemouth,False
+109,2.0,0.0,2022-09-03,Bournemouth,Nott'ham Forest,W,Bournemouth,False
+110,1.0,0.0,2022-09-17,Bournemouth,Newcastle Utd,D,Bournemouth,False
+111,1.0,0.0,2022-10-01,Bournemouth,Brentford,D,Bournemouth,False
+112,2.0,0.0,2022-10-08,Bournemouth,Leicester City,W,Bournemouth,False
+113,1.0,2.0,2022-10-15,Bournemouth,Fulham,D,Bournemouth,False
+114,0.0,2.0,2022-10-19,Bournemouth,Southampton,L,Bournemouth,False
+115,0.0,0.0,2022-10-24,Bournemouth,West Ham,L,Bournemouth,True
+116,0.0,2.0,2022-10-29,Bournemouth,Tottenham,L,Bournemouth,False
+117,0.0,0.0,2022-11-05,Bournemouth,Leeds United,L,Bournemouth,True
+118,2.0,1.0,2022-11-12,Bournemouth,Everton,W,Bournemouth,False
+119,0.0,0.0,2022-12-27,Bournemouth,Chelsea,L,Bournemouth,True
+120,0.0,0.0,2022-12-31,Bournemouth,Crystal Palace,L,Bournemouth,True
+121,0.0,0.0,2023-01-03,Bournemouth,Manchester Utd,L,Bournemouth,True
+122,0.0,0.0,2023-01-14,Bournemouth,Brentford,L,Bournemouth,True
+158,1.0,2.0,2022-08-07,Brentford,Leicester City,D,Brentford,False
+159,2.0,0.0,2022-08-13,Brentford,Manchester Utd,W,Brentford,False
+160,0.0,0.0,2022-08-20,Brentford,Fulham,L,Brentford,True
+161,1.0,0.0,2022-08-27,Brentford,Everton,D,Brentford,False
+162,1.0,2.0,2022-08-30,Brentford,Crystal Palace,D,Brentford,False
+163,2.0,2.0,2022-09-03,Brentford,Leeds United,W,Brentford,True
+164,0.0,0.0,2022-09-18,Brentford,Arsenal,L,Brentford,True
+165,1.0,0.0,2022-10-01,Brentford,Bournemouth,D,Brentford,False
+166,0.0,0.0,2022-10-08,Brentford,Newcastle Utd,L,Brentford,True
+167,2.0,1.0,2022-10-14,Brentford,Brighton,W,Brentford,False
+168,1.0,1.0,2022-10-19,Brentford,Chelsea,D,Brentford,True
+169,0.0,0.0,2022-10-23,Brentford,Aston Villa,L,Brentford,True
+170,1.0,0.0,2022-10-29,Brentford,Wolves,D,Brentford,False
+171,1.0,2.0,2022-11-05,Brentford,Nott'ham Forest,D,Brentford,False
+172,2.0,0.0,2022-11-12,Brentford,Manchester City,W,Brentford,False
+173,1.0,2.0,2022-12-26,Brentford,Tottenham,D,Brentford,False
+174,2.0,2.0,2022-12-30,Brentford,West Ham,W,Brentford,True
+175,2.0,1.0,2023-01-02,Brentford,Liverpool,W,Brentford,False
+176,2.0,0.0,2023-01-14,Brentford,Bournemouth,W,Brentford,False
+212,2.0,2.0,2022-08-07,Brighton,Manchester Utd,W,Brighton,True
+213,1.0,2.0,2022-08-13,Brighton,Newcastle Utd,D,Brighton,False
+214,2.0,2.0,2022-08-21,Brighton,West Ham,W,Brighton,True
+215,2.0,2.0,2022-08-27,Brighton,Leeds United,W,Brighton,True
+216,0.0,0.0,2022-08-30,Brighton,Fulham,L,Brighton,True
+217,2.0,1.0,2022-09-04,Brighton,Leicester City,W,Brighton,False
+218,1.0,2.0,2022-10-01,Brighton,Liverpool,D,Brighton,False
+219,0.0,2.0,2022-10-08,Brighton,Tottenham,L,Brighton,False
+220,0.0,1.0,2022-10-14,Brighton,Brentford,L,Brighton,False
+221,1.0,0.0,2022-10-18,Brighton,Nott'ham Forest,D,Brighton,False
+222,0.0,0.0,2022-10-22,Brighton,Manchester City,L,Brighton,True
+223,2.0,2.0,2022-10-29,Brighton,Chelsea,W,Brighton,True
+224,2.0,2.0,2022-11-05,Brighton,Wolves,W,Brighton,True
+225,0.0,0.0,2022-11-13,Brighton,Aston Villa,L,Brighton,True
+226,2.0,2.0,2022-12-26,Brighton,Southampton,W,Brighton,True
+227,0.0,0.0,2022-12-31,Brighton,Arsenal,L,Brighton,True
+228,2.0,0.0,2023-01-03,Brighton,Everton,W,Brighton,False
+229,2.0,0.0,2023-01-14,Brighton,Liverpool,W,Brighton,False
+300,2.0,2.0,2022-08-06,Chelsea,Everton,W,Chelsea,True
+301,1.0,2.0,2022-08-14,Chelsea,Tottenham,D,Chelsea,False
+302,0.0,2.0,2022-08-21,Chelsea,Leeds United,L,Chelsea,False
+303,2.0,2.0,2022-08-27,Chelsea,Leicester City,W,Chelsea,True
+304,0.0,0.0,2022-08-30,Chelsea,Southampton,L,Chelsea,True
+305,2.0,0.0,2022-09-03,Chelsea,West Ham,W,Chelsea,False
+306,2.0,0.0,2022-10-01,Chelsea,Crystal Palace,W,Chelsea,False
+307,2.0,2.0,2022-10-08,Chelsea,Wolves,W,Chelsea,True
+308,2.0,2.0,2022-10-16,Chelsea,Aston Villa,W,Chelsea,True
+309,1.0,2.0,2022-10-19,Chelsea,Brentford,D,Chelsea,False
+310,1.0,0.0,2022-10-22,Chelsea,Manchester Utd,D,Chelsea,False
+311,0.0,2.0,2022-10-29,Chelsea,Brighton,L,Chelsea,False
+312,0.0,0.0,2022-11-06,Chelsea,Arsenal,L,Chelsea,True
+313,0.0,1.0,2022-11-12,Chelsea,Newcastle Utd,L,Chelsea,False
+314,2.0,0.0,2022-12-27,Chelsea,Bournemouth,W,Chelsea,False
+315,1.0,2.0,2023-01-01,Chelsea,Nott'ham Forest,D,Chelsea,False
+316,0.0,0.0,2023-01-05,Chelsea,Manchester City,L,Chelsea,True
+317,0.0,0.0,2023-01-12,Chelsea,Fulham,L,Chelsea,True
+318,2.0,0.0,2023-01-15,Chelsea,Crystal Palace,W,Chelsea,False
+354,0.0,0.0,2022-08-05,Crystal Palace,Arsenal,L,Crystal Palace,True
+355,1.0,0.0,2022-08-15,Crystal Palace,Liverpool,D,Crystal Palace,False
+356,2.0,0.0,2022-08-20,Crystal Palace,Aston Villa,W,Crystal Palace,False
+357,0.0,0.0,2022-08-27,Crystal Palace,Manchester City,L,Crystal Palace,True
+358,1.0,2.0,2022-08-30,Crystal Palace,Brentford,D,Crystal Palace,False
+359,1.0,0.0,2022-09-03,Crystal Palace,Newcastle Utd,D,Crystal Palace,False
+360,0.0,0.0,2022-10-01,Crystal Palace,Chelsea,L,Crystal Palace,True
+361,2.0,2.0,2022-10-09,Crystal Palace,Leeds United,W,Crystal Palace,True
+362,1.0,0.0,2022-10-15,Crystal Palace,Leicester City,D,Crystal Palace,False
+363,2.0,1.0,2022-10-18,Crystal Palace,Wolves,W,Crystal Palace,False
+364,0.0,0.0,2022-10-22,Crystal Palace,Everton,L,Crystal Palace,True
+365,2.0,0.0,2022-10-29,Crystal Palace,Southampton,W,Crystal Palace,False
+366,2.0,0.0,2022-11-06,Crystal Palace,West Ham,W,Crystal Palace,False
+367,0.0,2.0,2022-11-12,Crystal Palace,Nott'ham Forest,L,Crystal Palace,False
+368,0.0,2.0,2022-12-26,Crystal Palace,Fulham,L,Crystal Palace,False
+369,2.0,0.0,2022-12-31,Crystal Palace,Bournemouth,W,Crystal Palace,False
+370,0.0,0.0,2023-01-04,Crystal Palace,Tottenham,L,Crystal Palace,True
+371,0.0,0.0,2023-01-15,Crystal Palace,Chelsea,L,Crystal Palace,True
+407,0.0,1.0,2022-08-06,Everton,Chelsea,L,Everton,False
+408,0.0,0.0,2022-08-13,Everton,Aston Villa,L,Everton,True
+409,1.0,0.0,2022-08-20,Everton,Nott'ham Forest,D,Everton,False
+410,1.0,2.0,2022-08-27,Everton,Brentford,D,Everton,False
+411,1.0,0.0,2022-08-30,Everton,Leeds United,D,Everton,False
+412,1.0,0.0,2022-09-03,Everton,Liverpool,D,Everton,False
+413,2.0,2.0,2022-09-18,Everton,West Ham,W,Everton,True
+414,2.0,2.0,2022-10-01,Everton,Southampton,W,Everton,True
+415,0.0,0.0,2022-10-09,Everton,Manchester Utd,L,Everton,True
+416,0.0,2.0,2022-10-15,Everton,Tottenham,L,Everton,False
+417,0.0,0.0,2022-10-19,Everton,Newcastle Utd,L,Everton,True
+418,2.0,1.0,2022-10-22,Everton,Crystal Palace,W,Everton,False
+419,1.0,1.0,2022-10-29,Everton,Fulham,D,Everton,True
+420,0.0,0.0,2022-11-05,Everton,Leicester City,L,Everton,True
+421,0.0,0.0,2022-11-12,Everton,Bournemouth,L,Everton,True
+422,0.0,2.0,2022-12-26,Everton,Wolves,L,Everton,False
+423,1.0,0.0,2022-12-31,Everton,Manchester City,D,Everton,False
+424,0.0,1.0,2023-01-03,Everton,Brighton,L,Everton,False
+425,0.0,2.0,2023-01-14,Everton,Southampton,L,Everton,False
+426,0.0,0.0,2022-08-27,Fulham,Arsenal,L,Fulham,True
+427,2.0,0.0,2022-08-30,Fulham,Brighton,W,Fulham,False
+428,0.0,2.0,2022-09-03,Fulham,Tottenham,L,Fulham,False
+429,2.0,0.0,2022-09-16,Fulham,Nott'ham Forest,W,Fulham,False
+430,0.0,0.0,2022-10-01,Fulham,Newcastle Utd,L,Fulham,True
+431,0.0,0.0,2022-10-09,Fulham,West Ham,L,Fulham,True
+432,1.0,0.0,2022-10-15,Fulham,Bournemouth,D,Fulham,False
+433,2.0,2.0,2022-10-20,Fulham,Aston Villa,W,Fulham,True
+434,2.0,0.0,2022-10-23,Fulham,Leeds United,W,Fulham,False
+435,1.0,2.0,2022-10-29,Fulham,Everton,D,Fulham,False
+436,0.0,2.0,2022-11-05,Fulham,Manchester City,L,Fulham,False
+437,0.0,0.0,2022-11-13,Fulham,Manchester Utd,L,Fulham,True
+438,2.0,0.0,2022-12-26,Fulham,Crystal Palace,W,Fulham,False
+439,2.0,2.0,2022-12-31,Fulham,Southampton,W,Fulham,True
+440,2.0,0.0,2023-01-03,Fulham,Leicester City,W,Fulham,False
+441,2.0,2.0,2023-01-12,Fulham,Chelsea,W,Fulham,True
+442,0.0,0.0,2023-01-15,Fulham,Newcastle Utd,L,Fulham,True
+478,2.0,1.0,2022-08-06,Leeds United,Wolves,W,Leeds United,False
+479,1.0,2.0,2022-08-13,Leeds United,Southampton,D,Leeds United,False
+480,2.0,2.0,2022-08-21,Leeds United,Chelsea,W,Leeds United,True
+481,0.0,0.0,2022-08-27,Leeds United,Brighton,L,Leeds United,True
+482,1.0,2.0,2022-08-30,Leeds United,Everton,D,Leeds United,False
+483,0.0,2.0,2022-09-03,Leeds United,Brentford,L,Leeds United,False
+484,1.0,2.0,2022-10-02,Leeds United,Aston Villa,D,Leeds United,False
+485,0.0,0.0,2022-10-09,Leeds United,Crystal Palace,L,Leeds United,True
+486,0.0,0.0,2022-10-16,Leeds United,Arsenal,L,Leeds United,True
+487,0.0,0.0,2022-10-20,Leeds United,Leicester City,L,Leeds United,True
+488,0.0,2.0,2022-10-23,Leeds United,Fulham,L,Leeds United,False
+489,2.0,0.0,2022-10-29,Leeds United,Liverpool,W,Leeds United,False
+490,2.0,2.0,2022-11-05,Leeds United,Bournemouth,W,Leeds United,True
+491,0.0,0.0,2022-11-12,Leeds United,Tottenham,L,Leeds United,True
+492,0.0,0.0,2022-12-28,Leeds United,Manchester City,L,Leeds United,True
+493,1.0,0.0,2022-12-31,Leeds United,Newcastle Utd,D,Leeds United,False
+494,1.0,0.0,2023-01-04,Leeds United,West Ham,D,Leeds United,False
+495,0.0,1.0,2023-01-13,Leeds United,Aston Villa,L,Leeds United,False
+531,1.0,0.0,2022-08-07,Leicester City,Brentford,D,Leicester City,False
+532,0.0,0.0,2022-08-13,Leicester City,Arsenal,L,Leicester City,True
+533,0.0,0.0,2022-08-20,Leicester City,Southampton,L,Leicester City,True
+534,0.0,0.0,2022-08-27,Leicester City,Chelsea,L,Leicester City,True
+535,0.0,0.0,2022-09-01,Leicester City,Manchester Utd,L,Leicester City,True
+536,0.0,0.0,2022-09-04,Leicester City,Brighton,L,Leicester City,True
+537,0.0,0.0,2022-09-17,Leicester City,Tottenham,L,Leicester City,True
+538,2.0,0.0,2022-10-03,Leicester City,Nott'ham Forest,W,Leicester City,False
+539,0.0,0.0,2022-10-08,Leicester City,Bournemouth,L,Leicester City,True
+540,1.0,0.0,2022-10-15,Leicester City,Crystal Palace,D,Leicester City,False
+541,2.0,0.0,2022-10-20,Leicester City,Leeds United,W,Leicester City,False
+542,2.0,2.0,2022-10-23,Leicester City,Wolves,W,Leicester City,True
+543,0.0,0.0,2022-10-29,Leicester City,Manchester City,L,Leicester City,True
+544,2.0,0.0,2022-11-05,Leicester City,Everton,W,Leicester City,False
+545,2.0,2.0,2022-11-12,Leicester City,West Ham,W,Leicester City,True
+546,0.0,2.0,2022-12-26,Leicester City,Newcastle Utd,L,Leicester City,False
+547,0.0,0.0,2022-12-30,Leicester City,Liverpool,L,Leicester City,True
+548,0.0,1.0,2023-01-03,Leicester City,Fulham,L,Leicester City,False
+549,0.0,1.0,2023-01-14,Leicester City,Nott'ham Forest,L,Leicester City,False
+585,1.0,2.0,2022-08-06,Liverpool,Fulham,D,Liverpool,False
+586,1.0,2.0,2022-08-15,Liverpool,Crystal Palace,D,Liverpool,False
+587,0.0,2.0,2022-08-22,Liverpool,Manchester Utd,L,Liverpool,False
+588,2.0,2.0,2022-08-27,Liverpool,Bournemouth,W,Liverpool,True
+589,2.0,2.0,2022-08-31,Liverpool,Newcastle Utd,W,Liverpool,True
+590,1.0,2.0,2022-09-03,Liverpool,Everton,D,Liverpool,False
+591,1.0,2.0,2022-10-01,Liverpool,Brighton,D,Liverpool,False
+592,0.0,2.0,2022-10-09,Liverpool,Arsenal,L,Liverpool,False
+593,2.0,2.0,2022-10-16,Liverpool,Manchester City,W,Liverpool,True
+594,2.0,0.0,2022-10-19,Liverpool,West Ham,W,Liverpool,False
+595,0.0,2.0,2022-10-22,Liverpool,Nott'ham Forest,L,Liverpool,False
+596,0.0,2.0,2022-10-29,Liverpool,Leeds United,L,Liverpool,False
+597,2.0,2.0,2022-11-06,Liverpool,Tottenham,W,Liverpool,True
+598,2.0,2.0,2022-11-12,Liverpool,Southampton,W,Liverpool,True
+599,2.0,2.0,2022-12-26,Liverpool,Aston Villa,W,Liverpool,True
+600,2.0,2.0,2022-12-30,Liverpool,Leicester City,W,Liverpool,True
+601,0.0,2.0,2023-01-02,Liverpool,Brentford,L,Liverpool,False
+602,0.0,2.0,2023-01-14,Liverpool,Brighton,L,Liverpool,False
+638,2.0,2.0,2022-08-07,Manchester City,West Ham,W,Manchester City,True
+639,2.0,2.0,2022-08-13,Manchester City,Bournemouth,W,Manchester City,True
+640,1.0,2.0,2022-08-21,Manchester City,Newcastle Utd,D,Manchester City,False
+641,2.0,2.0,2022-08-27,Manchester City,Crystal Palace,W,Manchester City,True
+642,2.0,2.0,2022-08-31,Manchester City,Nott'ham Forest,W,Manchester City,True
+643,1.0,2.0,2022-09-03,Manchester City,Aston Villa,D,Manchester City,False
+644,2.0,2.0,2022-09-17,Manchester City,Wolves,W,Manchester City,True
+645,2.0,2.0,2022-10-02,Manchester City,Manchester Utd,W,Manchester City,True
+646,2.0,2.0,2022-10-08,Manchester City,Southampton,W,Manchester City,True
+647,0.0,2.0,2022-10-16,Manchester City,Liverpool,L,Manchester City,False
+648,2.0,2.0,2022-10-22,Manchester City,Brighton,W,Manchester City,True
+649,2.0,2.0,2022-10-29,Manchester City,Leicester City,W,Manchester City,True
+650,2.0,2.0,2022-11-05,Manchester City,Fulham,W,Manchester City,True
+651,0.0,2.0,2022-11-12,Manchester City,Brentford,L,Manchester City,False
+652,2.0,2.0,2022-12-28,Manchester City,Leeds United,W,Manchester City,True
+653,1.0,2.0,2022-12-31,Manchester City,Everton,D,Manchester City,False
+654,2.0,2.0,2023-01-05,Manchester City,Chelsea,W,Manchester City,True
+655,0.0,2.0,2023-01-14,Manchester City,Manchester Utd,L,Manchester City,False
+691,0.0,2.0,2022-08-07,Manchester Utd,Brighton,L,Manchester Utd,False
+692,0.0,2.0,2022-08-13,Manchester Utd,Brentford,L,Manchester Utd,False
+693,2.0,0.0,2022-08-22,Manchester Utd,Liverpool,W,Manchester Utd,False
+694,2.0,0.0,2022-08-27,Manchester Utd,Southampton,W,Manchester Utd,False
+695,2.0,0.0,2022-09-01,Manchester Utd,Leicester City,W,Manchester Utd,False
+696,2.0,0.0,2022-09-04,Manchester Utd,Arsenal,W,Manchester Utd,False
+697,0.0,0.0,2022-10-02,Manchester Utd,Manchester City,L,Manchester Utd,True
+698,2.0,0.0,2022-10-09,Manchester Utd,Everton,W,Manchester Utd,False
+699,1.0,2.0,2022-10-16,Manchester Utd,Newcastle Utd,D,Manchester Utd,False
+700,2.0,0.0,2022-10-19,Manchester Utd,Tottenham,W,Manchester Utd,False
+701,1.0,2.0,2022-10-22,Manchester Utd,Chelsea,D,Manchester Utd,False
+702,2.0,2.0,2022-10-30,Manchester Utd,West Ham,W,Manchester Utd,True
+703,0.0,0.0,2022-11-06,Manchester Utd,Aston Villa,L,Manchester Utd,True
+704,2.0,2.0,2022-11-13,Manchester Utd,Fulham,W,Manchester Utd,True
+705,2.0,2.0,2022-12-27,Manchester Utd,Nott'ham Forest,W,Manchester Utd,True
+706,2.0,2.0,2022-12-31,Manchester Utd,Wolves,W,Manchester Utd,True
+707,2.0,2.0,2023-01-03,Manchester Utd,Bournemouth,W,Manchester Utd,True
+708,2.0,2.0,2023-01-14,Manchester Utd,Manchester City,W,Manchester Utd,True
+744,2.0,1.0,2022-08-06,Newcastle Utd,Nott'ham Forest,W,Newcastle Utd,False
+745,1.0,2.0,2022-08-13,Newcastle Utd,Brighton,D,Newcastle Utd,False
+746,1.0,0.0,2022-08-21,Newcastle Utd,Manchester City,D,Newcastle Utd,False
+747,1.0,2.0,2022-08-28,Newcastle Utd,Wolves,D,Newcastle Utd,False
+748,0.0,0.0,2022-08-31,Newcastle Utd,Liverpool,L,Newcastle Utd,True
+749,1.0,0.0,2022-09-03,Newcastle Utd,Crystal Palace,D,Newcastle Utd,False
+750,1.0,2.0,2022-09-17,Newcastle Utd,Bournemouth,D,Newcastle Utd,False
+751,2.0,2.0,2022-10-01,Newcastle Utd,Fulham,W,Newcastle Utd,True
+752,2.0,2.0,2022-10-08,Newcastle Utd,Brentford,W,Newcastle Utd,True
+753,1.0,2.0,2022-10-16,Newcastle Utd,Manchester Utd,D,Newcastle Utd,False
+754,2.0,2.0,2022-10-19,Newcastle Utd,Everton,W,Newcastle Utd,True
+755,2.0,2.0,2022-10-23,Newcastle Utd,Tottenham,W,Newcastle Utd,True
+756,2.0,0.0,2022-10-29,Newcastle Utd,Aston Villa,W,Newcastle Utd,False
+757,2.0,2.0,2022-11-06,Newcastle Utd,Southampton,W,Newcastle Utd,True
+758,2.0,2.0,2022-11-12,Newcastle Utd,Chelsea,W,Newcastle Utd,True
+759,2.0,1.0,2022-12-26,Newcastle Utd,Leicester City,W,Newcastle Utd,False
+760,1.0,0.0,2022-12-31,Newcastle Utd,Leeds United,D,Newcastle Utd,False
+761,1.0,0.0,2023-01-03,Newcastle Utd,Arsenal,D,Newcastle Utd,False
+762,2.0,2.0,2023-01-15,Newcastle Utd,Fulham,W,Newcastle Utd,True
+798,0.0,0.0,2022-08-28,Nottingham Forest,Tottenham,L,Nottingham Forest,True
+799,0.0,0.0,2022-08-31,Nottingham Forest,Manchester City,L,Nottingham Forest,True
+800,0.0,0.0,2022-09-03,Nottingham Forest,Bournemouth,L,Nottingham Forest,True
+801,0.0,2.0,2022-09-16,Nottingham Forest,Fulham,L,Nottingham Forest,False
+802,0.0,1.0,2022-10-03,Nottingham Forest,Leicester City,L,Nottingham Forest,False
+803,1.0,0.0,2022-10-10,Nottingham Forest,Aston Villa,D,Nottingham Forest,False
+804,0.0,0.0,2022-10-15,Nottingham Forest,Wolves,L,Nottingham Forest,True
+805,1.0,0.0,2022-10-18,Nottingham Forest,Brighton,D,Nottingham Forest,False
+806,2.0,0.0,2022-10-22,Nottingham Forest,Liverpool,W,Nottingham Forest,False
+807,0.0,0.0,2022-10-30,Nottingham Forest,Arsenal,L,Nottingham Forest,True
+808,1.0,0.0,2022-11-05,Nottingham Forest,Brentford,D,Nottingham Forest,False
+809,2.0,0.0,2022-11-12,Nottingham Forest,Crystal Palace,W,Nottingham Forest,False
+810,0.0,0.0,2022-12-27,Nottingham Forest,Manchester Utd,L,Nottingham Forest,True
+811,1.0,0.0,2023-01-01,Nottingham Forest,Chelsea,D,Nottingham Forest,False
+812,2.0,2.0,2023-01-04,Nottingham Forest,Southampton,W,Nottingham Forest,True
+813,2.0,0.0,2023-01-14,Nottingham Forest,Leicester City,W,Nottingham Forest,False
+849,0.0,0.0,2022-08-06,Southampton,Tottenham,L,Southampton,True
+850,1.0,2.0,2022-08-13,Southampton,Leeds United,D,Southampton,False
+851,2.0,0.0,2022-08-20,Southampton,Leicester City,W,Southampton,False
+852,0.0,0.0,2022-08-27,Southampton,Manchester Utd,L,Southampton,True
+853,2.0,0.0,2022-08-30,Southampton,Chelsea,W,Southampton,False
+854,0.0,2.0,2022-09-03,Southampton,Wolves,L,Southampton,False
+855,0.0,0.0,2022-09-16,Southampton,Aston Villa,L,Southampton,True
+856,0.0,0.0,2022-10-01,Southampton,Everton,L,Southampton,True
+857,0.0,0.0,2022-10-08,Southampton,Manchester City,L,Southampton,True
+858,1.0,0.0,2022-10-16,Southampton,West Ham,D,Southampton,False
+859,2.0,2.0,2022-10-19,Southampton,Bournemouth,W,Southampton,True
+860,1.0,0.0,2022-10-23,Southampton,Arsenal,D,Southampton,False
+861,0.0,2.0,2022-10-29,Southampton,Crystal Palace,L,Southampton,False
+862,0.0,0.0,2022-11-06,Southampton,Newcastle Utd,L,Southampton,True
+863,0.0,0.0,2022-11-12,Southampton,Liverpool,L,Southampton,True
+864,0.0,1.0,2022-12-26,Southampton,Brighton,L,Southampton,False
+865,0.0,0.0,2022-12-31,Southampton,Fulham,L,Southampton,True
+866,0.0,0.0,2023-01-04,Southampton,Nott'ham Forest,L,Southampton,True
+867,2.0,0.0,2023-01-14,Southampton,Everton,W,Southampton,False
+903,2.0,2.0,2022-08-06,Tottenham,Southampton,W,Tottenham,True
+904,1.0,2.0,2022-08-14,Tottenham,Chelsea,D,Tottenham,False
+905,2.0,2.0,2022-08-20,Tottenham,Wolves,W,Tottenham,True
+906,2.0,2.0,2022-08-28,Tottenham,Nott'ham Forest,W,Tottenham,True
+907,1.0,2.0,2022-08-31,Tottenham,West Ham,D,Tottenham,False
+908,2.0,2.0,2022-09-03,Tottenham,Fulham,W,Tottenham,True
+909,2.0,2.0,2022-09-17,Tottenham,Leicester City,W,Tottenham,True
+910,0.0,2.0,2022-10-01,Tottenham,Arsenal,L,Tottenham,False
+911,2.0,2.0,2022-10-08,Tottenham,Brighton,W,Tottenham,True
+912,2.0,2.0,2022-10-15,Tottenham,Everton,W,Tottenham,True
+913,0.0,0.0,2022-10-19,Tottenham,Manchester Utd,L,Tottenham,True
+914,0.0,0.0,2022-10-23,Tottenham,Newcastle Utd,L,Tottenham,True
+915,2.0,2.0,2022-10-29,Tottenham,Bournemouth,W,Tottenham,True
+916,0.0,0.0,2022-11-06,Tottenham,Liverpool,L,Tottenham,True
+917,2.0,2.0,2022-11-12,Tottenham,Leeds United,W,Tottenham,True
+918,1.0,2.0,2022-12-26,Tottenham,Brentford,D,Tottenham,False
+919,0.0,0.0,2023-01-01,Tottenham,Aston Villa,L,Tottenham,True
+920,2.0,0.0,2023-01-04,Tottenham,Crystal Palace,W,Tottenham,False
+921,0.0,0.0,2023-01-15,Tottenham,Arsenal,L,Tottenham,True
+992,0.0,0.0,2022-08-07,West Ham,Manchester City,L,West Ham,True
+993,0.0,0.0,2022-08-14,West Ham,Nott'ham Forest,L,West Ham,True
+994,0.0,0.0,2022-08-21,West Ham,Brighton,L,West Ham,True
+995,2.0,0.0,2022-08-28,West Ham,Aston Villa,W,West Ham,False
+996,1.0,2.0,2022-08-31,West Ham,Tottenham,D,West Ham,False
+997,0.0,0.0,2022-09-03,West Ham,Chelsea,L,West Ham,True
+998,0.0,0.0,2022-09-18,West Ham,Everton,L,West Ham,True
+999,2.0,2.0,2022-10-01,West Ham,Wolves,W,West Ham,True
+1000,2.0,2.0,2022-10-09,West Ham,Fulham,W,West Ham,True
+1001,1.0,2.0,2022-10-16,West Ham,Southampton,D,West Ham,False
+1002,0.0,2.0,2022-10-19,West Ham,Liverpool,L,West Ham,False
+1003,2.0,2.0,2022-10-24,West Ham,Bournemouth,W,West Ham,True
+1004,0.0,0.0,2022-10-30,West Ham,Manchester Utd,L,West Ham,True
+1005,0.0,2.0,2022-11-06,West Ham,Crystal Palace,L,West Ham,False
+1006,0.0,0.0,2022-11-12,West Ham,Leicester City,L,West Ham,True
+1007,0.0,0.0,2022-12-26,West Ham,Arsenal,L,West Ham,True
+1008,0.0,0.0,2022-12-30,West Ham,Brentford,L,West Ham,True
+1009,1.0,0.0,2023-01-04,West Ham,Leeds United,D,West Ham,False
+1010,0.0,2.0,2023-01-14,West Ham,Wolves,L,West Ham,False
+1046,0.0,0.0,2022-08-06,Wolves,Leeds United,L,Wolves,True
+1047,1.0,0.0,2022-08-13,Wolves,Fulham,D,Wolves,False
+1048,0.0,2.0,2022-08-20,Wolves,Tottenham,L,Wolves,False
+1049,1.0,0.0,2022-08-28,Wolves,Newcastle Utd,D,Wolves,False
+1050,1.0,2.0,2022-08-31,Wolves,Bournemouth,D,Wolves,False
+1051,2.0,2.0,2022-09-03,Wolves,Southampton,W,Wolves,True
+1052,0.0,0.0,2022-09-17,Wolves,Manchester City,L,Wolves,True
+1053,0.0,0.0,2022-10-01,Wolves,West Ham,L,Wolves,True
+1054,0.0,0.0,2022-10-08,Wolves,Chelsea,L,Wolves,True
+1055,2.0,0.0,2022-10-15,Wolves,Nott'ham Forest,W,Wolves,False
+1056,0.0,0.0,2022-10-18,Wolves,Crystal Palace,L,Wolves,True
+1057,0.0,1.0,2022-10-23,Wolves,Leicester City,L,Wolves,False
+1058,1.0,0.0,2022-10-29,Wolves,Brentford,D,Wolves,False
+1059,0.0,2.0,2022-11-05,Wolves,Brighton,L,Wolves,False
+1060,0.0,0.0,2022-11-12,Wolves,Arsenal,L,Wolves,True
+1061,2.0,1.0,2022-12-26,Wolves,Everton,W,Wolves,False
+1062,0.0,0.0,2022-12-31,Wolves,Manchester Utd,L,Wolves,True
+1063,1.0,2.0,2023-01-04,Wolves,Aston Villa,D,Wolves,False
+1064,2.0,2.0,2023-01-14,Wolves,West Ham,W,Wolves,True
